@@ -62,14 +62,14 @@ Model Accuracy: 100.00%
 ```
 
 #📚 What I Learned
--✔ How to clean and prepare text data for AI
--✔ How TF-IDF converts text to numbers
--✔ Basics of building a machine learning model for text classification
+- ✔ How to clean and prepare text data for AI
+- ✔ How TF-IDF converts text to numbers
+- ✔ Basics of building a machine learning model for text classification
 
 ---
 #💡 Next Steps
--✅ Build an AI model to detect Offensive, Calm, Loveable sentences for social media platforms
--✅ Experiment with larger, real-world datasets from Kaggle
+- ✅ Build an AI model to detect Offensive, Calm, Loveable sentences for social media platforms
+- ✅ Experiment with larger, real-world datasets from Kaggle
 ---
 #🙌 Project by Yash Tiwari - Aspiring AI Engineer
 ---
